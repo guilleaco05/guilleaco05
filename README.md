@@ -35,7 +35,7 @@ Combino el análisis operativo y la optimización de procesos empresariales con 
 ## 🚀 Proyectos Destacados
 
 - 🧹 **[`mac-clean`](https://github.com/guilleaco05/mac-clean) (Open Source):** Skill modular para asistentes de IA de desarrollo (Claude Code / Antigravity) para auditar, medir y limpiar de forma 100% segura entornos macOS.
-- 💬 **`whatsapp-ai-starter`:** Arquitectura modular en TypeScript para agentes conversacionales en WhatsApp (Twilio + Gemini API) con manejo de sesiones y function calling.
+- 💬 **[`whatsapp-ai-starter`](https://github.com/guilleaco05/whatsapp-ai-starter) (Open Source):** Arquitectura modular en TypeScript para agentes conversacionales en WhatsApp (Twilio + Gemini 2.0 Flash) con manejo de sesiones y function calling.
 - 📊 **`estanco-web-control`:** Web app stateless para procesamiento automatizado de libros de Excel para la liquidación del IVA trimestral y control contable.
 
 ---
